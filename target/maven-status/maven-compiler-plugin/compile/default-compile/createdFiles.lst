@@ -1,0 +1,11 @@
+Main.class
+data/UserRepository.class
+controller/UserController.class
+model/Posts.class
+model/User$Address.class
+model/Comment.class
+model/User.class
+service/UserService.class
+api/ApiClient.class
+model/User$Company.class
+model/User$Geo.class
